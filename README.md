@@ -1,7 +1,7 @@
 ### Hi I'm Akhil👋
 
 <!--
-**Akhil90639/Akhil90639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Akhil90639/Akhil90639** is a ✨ Iam passionate cloud engineer from India  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
