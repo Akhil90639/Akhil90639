@@ -1,7 +1,6 @@
-[!Master head] (https://img.freepik.com/free-vector/artificial-intelligence-isometric-flowchart-with-set-glow-icons-illustrated-modern-innovative-technologies-used-quantum-computing-mobile-software_1284-27968.jpg?size=626&ext=jpg&ga=GA1.1.316389113.1672723996)
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center">A passionate Cloud engineer from India</h3>
-<img src="https://www.kindpng.com/picc/m/45-454500_cloud-computing-animated-gif-transparent-cartoons-cloud-computing.png" alt="Cloud Computing Animated Gif , Transparent 
+<img src="https://thumbs.gfycat.com/ContentConfusedConch-size_restricted.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil90639&label=Profile%20views&color=0e75b6&style=flat" alt="akhil90639" /> </p>
 
