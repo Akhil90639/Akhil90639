@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil90639" alt="akhil90639" /></a> </p>
 
-- 🔭 I’m currently working on **Social Tek**
+- 🔭 I’m currently working on **Social Tek Business Solutions, Hyderabad**
 
 - 📫 How to reach me **akhilbilla215@gmail.com**
 
