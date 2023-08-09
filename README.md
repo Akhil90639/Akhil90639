@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center">A passionate Cloud engineer from India</h3>
-<p align="middle"> <img src="https://thumbs.gfycat.com/ContentConfusedConch-size_restricted.gif" />  </p>
+<p align="middle"  style="width:600px"> <img src="https://thumbs.gfycat.com/ContentConfusedConch-size_restricted.gif" />  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil90639&label=Profile%20views&color=0e75b6&style=flat" alt="akhil90639" /> </p>
 
