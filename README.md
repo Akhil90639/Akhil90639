@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center">A passionate Cloud engineer from India</h3>
-<div align="middle"> <img src="https://thumbs.gfycat.com/ContentConfusedConch-size_restricted.gif" />  </div>
+(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F568227677965915484%2F&psig=AOvVaw3D0HjDlLYF3EKdDk5zyZbI&ust=1702185162200000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjwrovMgYMDFQAAAAAdAAAAABAv" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil90639&label=Profile%20views&color=0e75b6&style=flat" alt="akhil90639" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil90639" alt="akhil90639" /></a> </p>
